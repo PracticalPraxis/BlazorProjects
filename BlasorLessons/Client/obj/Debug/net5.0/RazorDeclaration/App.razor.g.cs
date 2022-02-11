@@ -75,13 +75,6 @@ using Client;
 #line default
 #line hidden
 #nullable disable
-#nullable restore
-#line 10 "C:\Users\hconway\Projects\BlazorProjects\BlasorLessons\Client\_Imports.razor"
-using Client.Shared;
-
-#line default
-#line hidden
-#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
